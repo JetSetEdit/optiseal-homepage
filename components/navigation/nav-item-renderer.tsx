@@ -50,7 +50,7 @@ const NavItemRenderer: React.FC<NavItemProps> = ({ item, isMobile, onLinkClick }
             {isOpen ? <ChevronUp size={16} /> : <ChevronDown size={16} />}
           </button>
           {isOpen && (
-            <div className="pl-4 mt-2 space-y-2">
+            <div className="pl-4 mt-2 flex flex-col gap-2 border-l border-gray-200">
               {item.children.map((child, index) => (
                 <NavItemRenderer key={index} item={child} isMobile={true} onLinkClick={onLinkClick} />
               ))}
@@ -123,8 +123,9 @@ const NavItemRenderer: React.FC<NavItemProps> = ({ item, isMobile, onLinkClick }
     return (
       <Link
         href={item.href || `#${item.name.toLowerCase().replace(/[^a-z0-9]+/g, "-")}`}
-        className={`${isMobile ? mobileLinkClasses : desktopLinkClasses} font-medium`}
+        className={`${isMobile ? mobileLinkClasses + " py-2" : desktopLinkClasses} font-medium`}
         onClick={onLinkClick}
+        style={isMobile ? { borderBottom: '1px solid #eee', marginBottom: 4, display: 'block' } : {}}
       >
         {item.name}
       </Link>
