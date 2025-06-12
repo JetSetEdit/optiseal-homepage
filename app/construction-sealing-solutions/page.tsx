@@ -8,12 +8,12 @@ import Head from "next/head"
 
 const categories = [
   { name: "Windows & Doors", href: "/construction-windows-doors", icon: <FaDoorOpen className="text-3xl text-primary mb-2" />, subtitle: "Sealing for frames, sills, and more." },
-  { name: "Waterproofing (Sealrite WSM)", href: "#construction-waterproofing", icon: <FaWater className="text-3xl text-primary mb-2" />, subtitle: "Advanced waterproofing solutions." },
   { name: "Air Tightness", href: "/construction-air-tightness", icon: <FaWind className="text-3xl text-primary mb-2" />, subtitle: "Prevent air leaks and drafts." },
   { name: "Thermal Insulation", href: "/construction-thermal-insulation", icon: <FaThermometerHalf className="text-3xl text-primary mb-2" />, subtitle: "Improve energy efficiency." },
   { name: "Decking & Timber", href: "/construction-decking-timber", icon: <FaTree className="text-3xl text-primary mb-2" />, subtitle: "Protect timber and decking." },
   { name: "Coolroom & SIP Panels", href: "/construction-coolroom-sip-panels", icon: <FaSnowflake className="text-3xl text-primary mb-2" />, subtitle: "Sealing for cold storage and panels." },
   { name: "OPTE2 Innovative Products", href: "/construction-opte2-innovative-products", icon: <FaCogs className="text-3xl text-primary mb-2" />, subtitle: "Specialty construction solutions." },
+  { name: "Waterproofing (Sealrite WSM)", href: "#construction-waterproofing", icon: <FaWater className="text-3xl text-primary mb-2" />, subtitle: "Advanced waterproofing solutions." },
 ]
 
 export default function ConstructionSealingSolutionsPage() {
@@ -41,7 +41,7 @@ export default function ConstructionSealingSolutionsPage() {
           </div>
         </div>
       </section>
-      <div className="container mx-auto px-4 py-6 flex-1 w-full">
+      <div className="container w-full px-4 max-w-screen-lg mx-auto py-6 flex-1">
         {/* Breadcrumbs */}
         <nav aria-label="breadcrumb" className="mb-6">
           <Breadcrumb>
@@ -55,22 +55,37 @@ export default function ConstructionSealingSolutionsPage() {
           </Breadcrumb>
         </nav>
         {/* Category Sections */}
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-10 mb-16">
-          {categories.map((cat) => (
-            <section id={cat.name.toLowerCase().replace(/[^a-z0-9]+/g, '-')} key={cat.name} className="flex flex-col items-center">
-              <Card className="hover:shadow-2xl shadow-md transition-shadow duration-200 p-8 border border-gray-200 focus-within:ring-2 focus-within:ring-primary rounded-2xl bg-white flex flex-col items-center w-full">
-                <CardHeader className="flex flex-col items-center bg-transparent p-0 mb-2">
+        <div
+          className="grid gap-3 justify-center mb-16
+            grid-cols-1
+            sm:grid-cols-2
+            lg:grid-cols-3
+            place-items-center
+            items-stretch"
+        >
+          {[...categories.filter(cat => cat.name !== "Waterproofing (Sealrite WSM)"), categories.find(cat => cat.name === "Waterproofing (Sealrite WSM)")!].map((cat) => (
+            <Card
+              key={cat.name}
+              className="transition hover:shadow-md hover:scale-[1.01] shadow-sm duration-200 border border-gray-200 focus-within:ring-2 focus-within:ring-primary rounded-2xl bg-white flex flex-col items-stretch w-full max-w-xs min-h-[210px] h-full"
+            >
+              <div className="flex flex-col flex-1 w-full items-center justify-between px-4 py-5 gap-2">
+                <div className="flex flex-row items-center gap-2 w-full justify-center mb-1">
                   {cat.icon}
-                  <h2 className="text-2xl font-bold mb-1 text-center">{cat.name}</h2>
-                  <p className="text-base text-gray-500 mb-2 text-center">{cat.subtitle}</p>
-                </CardHeader>
-                <CardContent className="w-full flex flex-col items-center p-0">
-                  <Button asChild className="w-full max-w-[320px] mx-auto font-bold text-sm min-h-[44px] shadow-md focus-visible:ring-4 focus-visible:ring-primary/70 focus-visible:outline-none uppercase text-white rounded-xl transition-all duration-150 hover:bg-primary/90 hover:shadow-lg px-4 py-2 whitespace-normal break-words text-center flex items-center justify-center" style={{textShadow: '0 1px 2px rgba(0,0,0,0.08)'}} aria-label={`Explore ${cat.name}`}>
+                  <CardTitle className="text-2xl font-bold text-center flex items-center">{cat.name}</CardTitle>
+                </div>
+                <p className="text-base text-gray-500 text-center min-h-[2rem] flex items-center justify-center w-full mb-2">{cat.subtitle}</p>
+                <div className="w-full flex flex-col items-center mt-auto">
+                  <Button
+                    asChild
+                    className="w-full max-w-[320px] mx-auto font-bold text-sm min-h-[44px] shadow-md focus-visible:ring-4 focus-visible:ring-primary/70 focus-visible:outline-none uppercase text-white rounded-xl transition-all duration-150 hover:bg-primary/90 hover:shadow-lg px-4 py-2 whitespace-normal break-words text-center flex items-center justify-center"
+                    style={{ textShadow: '0 1px 2px rgba(0,0,0,0.08)' }}
+                    aria-label={`Explore ${cat.name}`}
+                  >
                     <a href={`#details-${cat.name.toLowerCase().replace(/[^a-z0-9]+/g, '-')}`}>Explore {cat.name}</a>
                   </Button>
-                </CardContent>
-              </Card>
-            </section>
+                </div>
+              </div>
+            </Card>
           ))}
         </div>
         {/* Detailed Sections Below Grid */}
