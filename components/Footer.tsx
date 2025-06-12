@@ -51,25 +51,30 @@ export default function Footer() {
           <div className="lg:col-span-2">
             <Image
               src="/optiseal-logo-light.png"
-              alt="OptiSeal"
+              alt="Optiseal"
               width={300}
               height={100}
               className="h-12 w-auto mb-4"
             />
             <p className="text-gray-700 mb-4 leading-relaxed">
-              Simple Sealing Solutions for every industry. OptiSeal delivers innovative sealing technologies with expert
+              Simple Sealing Solutions for every industry. Optiseal delivers innovative sealing technologies with expert
               support and custom development services.
             </p>
 
             {/* Address */}
             <address className="text-gray-600 not-italic mb-4">
-              <p className="mb-1">OptiSeal Australia Pty Ltd</p>
+              <p className="mb-1">Optiseal Australia Pty Ltd</p>
               <p className="mb-1">57 Jamieson Way</p>
               <p className="mb-1">Dandenong South VIC 3175</p>
               <p className="mb-1">Australia</p>
               <p className="mt-3">
                 <a href="tel:+61397068005" className="text-primary hover:underline">
                   +61 3 9706 8005
+                </a>
+              </p>
+              <p>
+                <a href="mailto:support@optiseal.com.au" className="text-primary hover:underline">
+                  support@optiseal.com.au
                 </a>
               </p>
             </address>
@@ -83,7 +88,7 @@ export default function Footer() {
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-gray-600 hover:text-[#0077C8] transition-colors duration-200 p-2 rounded-full hover:bg-gray-100"
-                  aria-label={`Follow OptiSeal on ${social.name}`}
+                  aria-label={`Follow Optiseal on ${social.name}`}
                 >
                   <social.icon size={20} />
                 </a>
@@ -111,19 +116,6 @@ export default function Footer() {
           ))}
         </div>
 
-        {/* Google Map */}
-        <div className="w-full h-[300px] md:h-[400px] rounded-md shadow-md overflow-hidden mt-6">
-          <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3142.345567723278!2d145.2203700158246!3d-38.03904567969709!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad66cdfc0c848e9%3A0x1f8d0a33d0ce7fd0!2sOptiSeal%20Australia%20Pty%20Ltd%2C%2030%20Industrial%20Circuit%2C%20Cranbourne%20West%20VIC%203977!5e0!3m2!1sen!2sau!4v1749190692502!5m2!1sen!2sau"
-            className="w-full h-full"
-            style={{ border: 0 }}
-            allowFullScreen
-            loading="lazy"
-            referrerPolicy="no-referrer-when-downgrade"
-            title="OptiSeal Australia Location Map"
-          ></iframe>
-        </div>
-
         {/* Bottom Bar */}
         <motion.div
           initial={{ opacity: 0 }}
@@ -132,7 +124,7 @@ export default function Footer() {
           viewport={{ once: true }}
           className="border-t border-gray-200 mt-12 pt-8 flex flex-col md:flex-row justify-between items-center"
         >
-          <p className="text-gray-600 text-sm">© {currentYear} OptiSeal. All rights reserved.</p>
+          <p className="text-gray-600 text-sm">© {currentYear} Optiseal. All rights reserved.</p>
           <div className="flex flex-col sm:flex-row items-center space-y-2 sm:space-y-0 sm:space-x-6 mt-4 md:mt-0">
             <div className="flex space-x-6">
               <Link href="#privacy" className="text-gray-600 hover:text-primary text-sm transition-colors duration-200">
@@ -155,7 +147,7 @@ export default function Footer() {
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-gray-600 hover:text-[#0077C8] transition-colors duration-200"
-                  aria-label={`Follow OptiSeal on ${social.name}`}
+                  aria-label={`Follow Optiseal on ${social.name}`}
                 >
                   <social.icon size={18} />
                 </a>

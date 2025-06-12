@@ -92,7 +92,7 @@ export default function MobileNavSheet({ isMenuOpen, setIsMenuOpen }: MobileNavS
           >
             <Image
               src="/optiseal-logo-light.png"
-              alt="OptiSeal - Simple Sealing Solutions"
+              alt="Optiseal - Simple Sealing Solutions"
               width={300}
               height={100}
               className="h-10 w-auto"
@@ -106,7 +106,7 @@ export default function MobileNavSheet({ isMenuOpen, setIsMenuOpen }: MobileNavS
           <button
             className="bg-[#0077C8] text-white hover:bg-[#005a9a] focus:bg-[#005a9a] focus:outline-none focus:ring-2 focus:ring-[#0077C8] focus:ring-offset-2 px-6 py-2 rounded-lg font-semibold transition-colors duration-200 w-fit mt-4"
             onClick={() => setIsMenuOpen(false)}
-            aria-label="Get started with OptiSeal"
+            aria-label="Get started with Optiseal"
           >
             Get Started
           </button>

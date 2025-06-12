@@ -1,0 +1,322 @@
+Jordan  0:01  
+All right. So yeah, logo I've been trying. So if you go into z drive now, you'll see that we've actually got optics, your brand kit, and yeah, like Linda has been in here as well. But a little bit of a readme explaining what you actually need to use. So if it's being used for screen as final app, there will be more. I'll put more things in there as they're needed, but that so they keep the consistent color space and stuff. But yeah, so that's where you can find them. And then there's also the print. And then, like, someone asked for a different format, message me, yep. So they're just all there, but yeah, just like yesterday, Linda was like, oh, I need to drop. It's like, okay, there's the drop. Yeah. So that's all there, and I can populate it as we need. And your fonts there, yeah, that's what the font folder is using for that tagline bit, which we needed, I think, for the signature.
+
+Speaker 1  1:09  
+So we adopted our Instagram, yeah, and web page, the seal, right? WSM, web page, yes. Well, you do.
+
+Jordan  1:21  
+So anyway, I know I showed you a website version A while ago, but I really shouldn't have bothered to do that at all, because, like we said, the logo really infers. Yeah,
+
+Speaker 1  1:35  
+it sent me something last week, which was, I can't remember now, it was pretty basic. It was just the blues and a few few colors. Yeah,
+
+Jordan  1:45  
+that was more like the color library thing that would have been thing, which was more like to tell me how to design it to be consistent. Yeah. Anyway, this is where I'm kind of at with so this I can put on. This is currently live, so you can access that cool. That's a stage, but you can play around with that and see that's directions. Oh, everything is like placeholder text, and stuff.
+
+Jordan  2:30  
+Like, obviously, some of those things are just made
+
+Speaker 1  2:33  
+up and stuff. Yeah, cool. I like it because it's it's not too over the top. It's similar to the optic core page in terms of its format. And I like that. It's
+
+Jordan  2:45  
+I went for like a light because I think with the new logo, writer is good. And then so these might the mine. The mapping might be slightly off here, yeah. But if you click onto any of these, they're all the same at the moment, yeah. Which is just a template kind of thing. So you scroll down, so you get like a, yeah, yep, breadcrumb. You scroll down. You've got, you can put, like, feature tiles, gallery maybe you want to do, but I'd like, in terms of me doing more on the website, I just need to know, what do we want to put on there? Like, because with optic core, it was copy all the body text from resymac. So what do you need from me? I just need to know, like, do you want me to go on to opti CO and just, like, copy. But like, is there? What do you want? Does all of these need a page? What do you want on the page? Or I don't think
+
+Speaker 1  3:44  
+so. If we go to construction ceiling solutions, I think that could be one page, and then it's just windows and door like all those sub categories sit within the actual page. What do you think so? Then it's waterproofing, hair, tightness.
+
+Jordan  3:59  
+But then, if they're all on that page, should those things be clickable, or do they go nowhere? And it's just listing them as categories?
+
+Speaker 1  4:06  
+I think it's more just listing them as categories to start with.
+
+Speaker 1  4:15  
+Yeah, so let's just have a look. Go back here. I that. And
+
+Jordan  4:24  
+then this is also trying to optimize it for Maribel as well.
+
+Jordan  4:36  
+And then you've got
+
+Speaker 1  4:38  
+cool that looks really good. I think we'll change this. This original banner here.
+
+Jordan  4:43  
+Yeah, once again, like, all the texts and stuff is just kind of, so
+
+Speaker 1  4:48  
+we probably need to spend a bit of time on the text. Then, once we've got the Yeah,
+
+Jordan  4:51  
+just kind of like, fit this is kind of, so why don't we mapping? So why don't we, yeah, I think, like, what do you want on this page? What do you want on this page, like this, this
+
+Speaker 1  5:02  
+agricultural, civil, automotive, that can they can all be individual pages for themselves.
+
+Jordan  5:12  
+And then instead of having them as their own pages, have those inside.
+
+Speaker 1  5:18  
+I think so that. I think that'll work best, yeah.
+
+Jordan  5:27  
+And then the only other thing, I think that's the functional is, like, just add a search, yeah, that's good. That's that's good thing. And then there's a non functional contact page. But, like, because
+
+Speaker 1  5:41  
+probably don't need an about us and to contact us, it can probably be the same tab, okay, resources,
+
+Jordan  5:47  
+that's just some of the random things,
+
+Speaker 1  5:51  
+services. But no, I don't mind it. I think it's but,
+
+Jordan  5:55  
+yeah. Like, if, even if you go to this on your laptop, because you can also, yeah, look at it, go through it and just let you know this, or make this all one, or that kind of thing. Yes,
+
+Speaker 1  6:07  
+I think what we want is like a banner there, what generically, what we do, and then we go down, get rid of that, that image there, yeah, Project Gallery that we don't need that there. I reckon we go to like, then it goes to industry classes like this here,
+
+Jordan  6:25  
+yeah, but industry classes being well, that's
+
+Speaker 1  6:29  
+exactly right. And then we probably don't need feature products, maybe, maybe they could also circulate like, they could be on just a rotation. And then our services
+
+Jordan  6:45  
+is kind of like a template.
+
+Speaker 1  6:48  
+Yeah, yeah, I understand. But I was like, again, I'm not sure we need the map on our web page. I don't think it adds anything, yep, okay, and then it's just images. So are you able to start put together some of those images for these so
+
+Jordan  7:04  
+the images, if you go to the Project Gallery bit, those images are actually all taken from that beautiful tips website where you said there was some good images. So I just grabbed some of those. Yeah, so that was a way to just quickly get them on. But not necessarily in that way. But then I guess if you go down to solutions categories, for example, I think that some of it, they were duplicated, yeah, but if you go down, sorry, go about hump and is it like you want the like image there kind of thing, and then maybe, whatever the solution is,
+
+Speaker 1  7:48  
+not necessarily, I think you can try that. But I think if we click on construct, let's say we go to a construction page, and then we go, you know, to the Windows section, you have a proper image of like, if we went to that similar
+
+Jordan  8:05  
+hero, yeah,
+
+Speaker 1  8:06  
+and if we went to like, if I went to Tessa tapes, Russian tapes. And you look at these guys, for example, hmm? On.
+
+Speaker 2  8:27  
+Do you want products? Let's
+
+Speaker 1  8:39  
+just go. Let's just see how their images look like. Yeah, if we had an image like that, but a window flashing that you can pull from the internet, yeah, that'd be great, because that's like, you can see, it's the tape, but it's an application, rather than, do you know how we've just got tape? Yeah, just the roller tape. This is, like, specific to, you know, an application. That image there. And if I went to
+
+Jordan  9:02  
+do we have any actual of our recommendation images, be
+
+Unknown Speaker  9:05  
+able to find some generic ones? I would say 2100
+
+Jordan  9:09  
+definitely would have some of the others.
+
+Speaker 1  9:14  
+Like, even some of these images down, like, even if they're just generic, I
+
+Unknown Speaker  9:24  
+like, if you went
+
+Speaker 1  9:32  
+window, the other option is, I can get Dave to There we are, like, even if you got a generic image like that, they'll be changed slightly, you know, as, like a flashing tape, for example, that would be, that would be awesome. Otherwise, what I can do where, if I save them, because you'll be able to get that for all of those, because we were going to look it up on Google, weren't we, and get some generic I don't want generic up, like, stock images, yeah. Like water infrastructure, road ceiling, you know. Well, do we,
+
+Unknown Speaker  10:12  
+I don't know, do
+
+Jordan  10:14  
+give me, like, the start with one of them, like construction ceiling solutions. You can be the body text that you want on there, and then I build that page. And then, yeah, cool. That as the, yeah, that sounds good. Master, yep, kind of page to go from. And we'll get rid of that capital
+
+Unknown Speaker  10:31  
+S as well. Yeah,
+
+Jordan  10:35  
+I know the capital S is going now. I'm
+
+Unknown Speaker  10:39  
+just wondering if we need to reference tape here. I think we probably do, yeah,
+
+Jordan  10:45  
+yeah. But literally, yeah. This is just generic everything except kind of the navigation was just Yeah,
+
+Speaker 1  10:53  
+I don't, I don't mind it. I think, I think this looks really good, yeah.
+
+Jordan  10:58  
+And then that, I think also has the functional search on here as well. But, yeah, making it responsive. But I think because we're B to B, like, I think I like, because how it's just got some people just come to these sites, just for the contact details.
+
+Speaker 1  11:19  
+Yeah, yes, all the time, just sitting there as you scroll up and down, yeah, yeah, but yeah. We're not telling people how to buy us, where to buy us from. We're just showing, showcasing, and then they want to, they've got to reach out to us for more information. Yeah, you know, and at a point in time, we might be able to,
+
+Jordan  11:39  
+because the other thing that I've built, but not like it's not connected to anything, but it's, there's a contact,
+
+Speaker 1  11:44  
+yeah? Because it might be down the bottom, we have a, you know, a banner that rolls across, proudly supplied by and then it'll have Bowens, you know, pack, yeah, Premier tapes. But we may just, because we do a lot of private label stuff, we might not do that at all. No, I like it. I think it's good, yeah,
+
+Jordan  12:05  
+and color and theming and all of that. In terms of the
+
+Speaker 1  12:08  
+only thing I was wondering is, do we have a slight ode to the old, the old logo with a splash of orange somewhere
+
+Speaker 3  12:18  
+we could you? Heavy,
+
+Speaker 1  12:24  
+not in the logo or anything, but maybe no somewhere, like a little orange, I don't know,
+
+Jordan  12:29  
+like it could be an accent, perhaps on a hover, but I feel like that might look strange, maybe on like, this kind of thing, that could be an orange. We can try it definitely,
+
+Unknown Speaker  12:49  
+no, it's just
+
+Jordan  12:58  
+a or like around here, so much better. Second change the color of like the outside of there, that could be exciting.
+
+Unknown Speaker  13:05  
+Just have a play. I think the logo looks so much better, though.
+
+Jordan  13:10  
+Yeah, I just it, it's cleaner, and it will scale a lot better. And then that bit will be the little drop that will be that cool. Isn't right now, what
+
+Speaker 1  13:21  
+do you need from me? You need, I think, on construction page,
+
+Jordan  13:25  
+yeah, so, so
+
+Speaker 1  13:30  
+if you want to format it so it's one page with those sections, then we're going to
+
+Jordan  13:35  
+need. So what I'll do is I'll go down, I'll go downstairs and I'll do that, and then I'll send you this and show you where to find it. I'll upload it to here so you can actually look at it live, cool, cool. And then that sounds really good, and go back and forth until we've got that page right, and then we can do the other pages. And then I think that's the best way to do it. And this is also good because it's actually on the web server. I know that it this code already works. So, like, even if you went on to your phone at the moment or something, that would work, because it's not like a local development maybe. So
+
+Speaker 1  14:15  
+I've been looking at, you're going to post something today on,
+
+Jordan  14:18  
+yeah, I've got your message. Is what I was doing at lunch. What I've been
+
+Speaker 1  14:22  
+thinking is it's probably time, because these are all great. They're all images of just the system going down. This one seems to have got some bit of traction. I saw some view insights and had over 500 views. 528 views, now 90% from non followers. So what seems to get traction from what we're looking at here is when you collaborate with people, yeah, and when you mention the builder and the stock is that, so you get a lot Yeah.
+
+Jordan  14:50  
+Then you're getting access to their if they accept the collaboration on the post as well. That means it gets shared with their followers, as opposed to you just tagging them, yeah, yeah. Yeah. So it shows in that feed.
+
+Speaker 1  15:02  
+Because what I was thinking we might do, not this one, but the next one, is we might do a, an expose, a on D, and say, you know, D is our been installing for seven years. She's a proud trainer and certifier. Get in touch if you want to get certified to use the seal right system. Something that's a bit more personal, yeah, rather than sort of this website that's pushing a product,
+
+Jordan  15:25  
+well, I think on that. Then when you mentioned that, if you do the Instagram expose a thing on d, then I almost reckon we could add a section in here where it's just like blog or something, and then you have, I don't know, maybe a separate page or tab that opens up, and it's like the Instagram thing. But then D, and then the reason for that is, like SEO and SEM, it gives it something else to track, yep,
+
+Unknown Speaker  15:56  
+okay, oh, we can look at that for sure. So
+
+Jordan  15:59  
+if you, if we do the thing on D, we can do that, and then I can format it also as, like, a, I guess, an article,
+
+Speaker 1  16:05  
+yeah, yeah. I see what you mean. So then you get that cross link. Because,
+
+Jordan  16:09  
+yeah, cross linking, but Google really likes backlinks or like, Yeah, I know what you mean within whereas technique, because this is a single page. There's literally only this, and literally, I think the these, yeah, which is why those are the things that come up. But the more content you have, the Yeah, I understand. I also updated this the other day so that reels are separated so they can actually play, oh, cool. I think maybe still loading. But I felt like that was a better way to do that.
+
+Speaker 1  16:52  
+Yeah, so, for example, like the RBM has got two and a half 1000 followers. They they now started following us because we accepted an invitation to collaborate, and so we'll start to get and I think that's a really neat one, even though, like, fully back.
+
+Jordan  17:14  
+But yeah, I saw that, and then I realized I had shared the story, but I hadn't actually shared it to our post. I actually did a quick thing as well where I was like, All right,
+
+Unknown Speaker  17:25  
+I put, I've actually never looked at copy seal page. We could probably do a bit of
+
+Jordan  17:33  
+work there, actually just chuck that on there. So, yeah, cool. It's also there. Yeah, that's really clever, and I also shared it on optic seals, Facebook and Instagram. It's like even just that is better.
+
+Speaker 1  17:57  
+So we've had 1000 almost 1000 professional phantom views in the last 30 days, which is going to be up from the from where it was. Yeah,
+
+Jordan  18:06  
+yeah. You can see the arrows are saying up, up. Interaction is up. But yeah, I will prepare a report at the end of the month. I don't know how this works, but
+
+Speaker 1  18:24  
+how do I actually get because these guys have just been sharing reels with me, or whatever you call it, so usually and I somehow it says, Add to Your real
+
+Jordan  18:37  
+story. Story. Where's your story? Your story is here inside the profile picture. So when it's got that, like ring around it.
+
+Speaker 1  18:49  
+So yeah, so I just added these to the story from, directly from, yeah, should I go at, should I go at Peninsula proof? Or hashtag, Peninsula proof?
+
+Jordan  18:59  
+If you go at Peninsula proof, it will link to, I would do at because of you for hash is like, kind of your hash is like your tags like when someone's looking at it. So it was like, hashtag, build stronger, like hashtag water, hashtag friends, hashtag sheet membrane, or Yeah, what it is, what? How you want people to find it? Yeah. Whereas, if you're trying to tag someone, it's like by at ink, yep, or whatever. Yeah, cool. That makes sense. Yeah, no,
+
+Speaker 1  19:43  
+that does make sense. Cool, alrighty. Then once we if you're able to update the logo on that seal right WSM page, that'll be good, but maybe we'll wait till we've uploaded the actual opti seal page as well the website, yeah, it'll, it'll all map.
+
+Jordan  20:05  
+That's
+
+Speaker 1  20:06  
+yeah, because even the optic seal, this one here will need to change, yeah, but maybe we do that all at the same time. Hey, arrogant.
+
+Speaker 1  20:20  
+Yeah, we might change that to peel and stick butyl sheep membranes, because we're gonna have some more into the family soon.
+
+Jordan  20:29  
+All right, yeah, just send me an email or
+
+Speaker 1  20:33  
+text and what's the one you're gonna send today? I think, think it's your
+
+Jordan  20:44  
+must be my other phone. Yeah,
+
+Speaker 1  20:49  
+done by one of our best train installers. Not best. Here for good. Oh, yeah,
+
+Jordan  21:02  
+if you want to change it just I'll put it into the thing, and then I'll send it to you. Say, Yeah,
+
+Unknown Speaker  21:09  
+that's fine, actually.
+
+Speaker 1  21:17  
+And maybe hashtag, sorry, hashtag, build green as well. Yeah, okay, we'll add Bill Green. Cool. Let's see how much we can get going. All
+
+Unknown Speaker  21:30  
+right, beauty, cool. So
+
+Speaker 1  21:33  
+then we probably need a bit of time to sit down and actually go through the words and the images, once we've got the format laid out, right?
+
+Jordan  21:40  
+Yeah, so, like, we probably need to, I guess it's like, if there's like,
+
+Unknown Speaker  21:47  
+well, if you share it with me, I can scribble notes,
+
+Jordan  21:50  
+yeah, even if we just have, like, a Google doc where I say, Yeah,
+
+Speaker 1  21:55  
+this is the instruction. This is the civil This is the automotive.
+
+Jordan  21:59  
+Like, even if I just, yeah, do that and go, like, Okay, here's the Google Doc. And then you can just click on it and go, Okay, so this is not necessarily, this is the construction one. And then you can tell me what you want there. And they don't all have to be the exact same template, but it's just kind of
+
+Unknown Speaker  22:23  
+the address, make any difference. Cool. Awesome. Thanks John.
+
+Unknown Speaker  22:29  
+Norris. Thank you.
+
+Transcribed by https://otter.ai

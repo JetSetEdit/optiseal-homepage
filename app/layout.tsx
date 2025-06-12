@@ -6,9 +6,9 @@ import "./globals.css"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "OptiSeal - Simple Sealing Solutions",
+  title: "Optiseal - Simple Sealing Solutions",
   description:
-    "OptiSeal delivers innovative sealing technologies across construction, automotive, agricultural, and industrial applications.",
+    "Optiseal delivers innovative sealing technologies across construction, automotive, agricultural, and industrial applications.",
     generator: 'v0.dev'
 }
 
